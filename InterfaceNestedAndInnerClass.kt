@@ -1,0 +1,1 @@
+// For Interface, Nested and Inner Class

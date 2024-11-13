@@ -1,0 +1,1 @@
+// For initailize variable later by using lateint & lazy

@@ -1,0 +1,1 @@
+// For Null Safety, Smart Type Cast, Elvis  and ternary operator
